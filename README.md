@@ -1,1 +1,1 @@
-ALL THIS CODE IS USED IN VEXcode. DOWNLOAD IT [HERE](https://www.vexrobotics.com/vexcode/install/v5?srsltid=AfmBOooLqGvS6CJVXo5Hw9S5hdWSIjm8BiffgctBdFSB1OQrjkVQGCjg)
+All this code is written in VEXcode and CAN'T be opened in Visual Studio Code. Download it [here](https://www.vexrobotics.com/vexcode/install/v5?srsltid=AfmBOooLqGvS6CJVXo5Hw9S5hdWSIjm8BiffgctBdFSB1OQrjkVQGCjg)
